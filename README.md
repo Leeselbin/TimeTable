@@ -1,14 +1,10 @@
-# 과제 설치 실행 방법
+#간단한 타임테이블 만들기
 
-사용 node 버전 v18.17.0
+초기화면
+<img width="1034" alt="스크린샷 2024-09-27 오후 12 07 59" src="https://github.com/user-attachments/assets/e5c0fe7b-561a-48bc-a529-0ec3e069e550">
+<img width="1058" alt="스크린샷 2024-09-27 오후 12 08 08" src="https://github.com/user-attachments/assets/a687ae0f-77ad-47b0-9cfc-2d6cb3bb0efa">
 
-1. yarn install 또는 npm install
-2. yarn start 또는 npm start
-
-# 필수 구현 사항
-
-4번의 경우 시간이 해당 교시에 시간이 수정되게 함 으로 이해하였습니다.
-시간의 겹칠 경우가 존재하여서 시간의 수정이 이루어지는 시점이
-시작시간이 변경되는 시점인지 종료시간까지 선택되면 수정이 이루어지는지 순서가 자연스럽지 않다고 판단되었습니다.
-시간의 유효성검증마다 해당화면에서 error를 뿌려준다면 사용성이 저해된다고 생각하여
-교시추가 와 삭제로 대체할수 있다고 판단되어 진행하지 못하였습니다.
+시작시간 > 종료시간 유효성검증
+<img width="475" alt="스크린샷 2024-09-27 오후 12 08 31" src="https://github.com/user-attachments/assets/dad91331-43a7-4afc-9111-26167ce859bb">
+삭제모달
+<img width="365" alt="스크린샷 2024-09-27 오후 12 09 00" src="https://github.com/user-attachments/assets/b5d75de3-37d5-47bb-a510-b23bd46c8594">
