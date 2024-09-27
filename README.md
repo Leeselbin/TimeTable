@@ -2,7 +2,7 @@
 
 폴더구조
 
--src
+-src<br/>
  -components 
   -Button (공통으로 사용되는 버튼)
   -Modal (공통으로 사용되는 모달)
