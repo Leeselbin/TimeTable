@@ -1,5 +1,16 @@
 #간단한 타임테이블 만들기
 
+폴더구조
+
+-src
+ -components 
+  -Button (공통으로 사용되는 버튼)
+  -Modal (공통으로 사용되는 모달)
+  -TimeTable (TimetablePage의 컴포넌트들)
+ -pages
+  -TimetablePage.tsx ( '/timetable' 경로로 라우팅되는 페이지 )
+ -App.tsx
+
 초기화면
 <img width="1034" alt="스크린샷 2024-09-27 오후 12 07 59" src="https://github.com/user-attachments/assets/e5c0fe7b-561a-48bc-a529-0ec3e069e550">
 
